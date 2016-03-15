@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CardStackLayout">
+        <attr name="card_gap" format="dimension" />
+        <attr name="card_gap_bottom" format="dimension" />
+    </declare-styleable>
+</resources>
